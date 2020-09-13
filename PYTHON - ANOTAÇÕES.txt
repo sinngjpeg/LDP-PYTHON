@@ -4,4 +4,83 @@ PYTHON - ANOTAÇÕES
 • Tipagem dinamica e forte;
 • Uso da indentação como forma de definição de blocos de codigo;
 
+VARIAVEIS 
+
+<nome variavel> = <valor>
+
+Sinal de '=' para atribuir valor
+Nao é necessario declarar tipo da variavel;
+Podem possuir caracteres alfanumericos e o caractere underscore (_)
+Nao podem começar com numeros;
+Em python, tudo é objeto
+
+
+TIPOS 
+
+Int 
+float
+bool = true,false 
+complex = 3+4i
+str - 'bom dia' 
+
+Operadores 
+
++
+-
+*
+/
+pw(x,y) - exponenciação 
+
+
+
+print ('Olá Mundo')
+
+nome= input("Qual é o seu nome?")
+idade= input("Qual sua idade?")
+print(nome)
+print(idade)
+
+Operadores de comparação 
+
+<
+>
+<=
+=>
+== igualdade
+!= diferente
+
+Operadores lógicos 
+
+END
+OR 
+NOT 
+
+ESTRUTURA CONDICIONAL 
+
+IF 
+
+if<confição>:
+    <bloco de oodigo endentado>
+<instrução nao endentada> 
+
+if<condigção>
+    <bloco de codigo endentado1>
+elif:
+     <bloco de codigo endentado2>
+elif:
+     <bloco de codigo endentado3>
+else:
+     <bloco de codigo endentado4>
+
+ESTRUTURA FOR 
+
+for i in range(10):
+    print(i, end=' ')
+
+
+ESTRUTURA WHILE 
+
+while<codição>:
+    <bloco de codigo endentado1>
+<instrução nao ententada>
 

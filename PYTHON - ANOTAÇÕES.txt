@@ -1,0 +1,7 @@
+PYTHON - ANOTAÇÕES 
+
+• Linguagem Interpretada;
+• Tipagem dinamica e forte;
+• Uso da indentação como forma de definição de blocos de codigo;
+
+

@@ -84,3 +84,9 @@ while<codição>:
     <bloco de codigo endentado1>
 <instrução nao ententada>
 
+FUNCOES 
+
+def NomeDaFuncao(arg1,arg2,arg3):
+    <codigo>
+    return NomeDoObjetoARetornar
+
